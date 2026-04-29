@@ -162,6 +162,8 @@
 \RequirePackage{graphicx}%
 \RequirePackage{amssymb}%
 \RequirePackage{natbib}%
+\RequirePackage{longtable}
+\RequirePackage{geometry}
 \newcommand{\bibstyle@aas}{\bibpunct{(}{)}{;}{a}{}{,}}
 \@citestyle{aas}
 \RequirePackage{verbatim}%
@@ -1346,6 +1348,50 @@
   \relax\\[-1.5ex]%
  }%
 }%
+\newif\iflongrotateon
+\def\longrotatetable{%
+\global\longrotateontrue
+   \if@two@col\onecolumngrid\clearpage
+   \fi
+\clearpage
+   \clearpage
+  \begingroup
+\expandafter\def\csname deluxetable*\endcsname{\deluxetable}
+\expandafter\def\csname enddeluxetable*\endcsname{\enddeluxetable}
+\global\floatfalse
+\global\startlongtabletrue
+\def\LS@rot{%
+  \setbox\@outputbox\vbox{\vskip\movetabledown\hbox{\rotatebox{90}{\box\@outputbox}}}}
+
+\let\LS@makecol=\@makecol
+\let\LS@makefcolumn=\@makefcolumn
+
+  \vsize=\textwidth
+  \hsize=\textheight
+  \linewidth=\hsize
+  \columnwidth=\hsize
+  \@colroom=\vsize
+  \textheight=\vsize
+  \@colht=\vsize
+  \def\@makecol{\LS@makecol\LS@rot}%
+  \def\@makefcolumn##1{\LS@makefcolumn{##1}\LS@rot}}
+
+\def\endlongrotatetable{%
+\onecolumngrid %% ??
+\clearpage
+  \ifGin@pdftex
+    \pdfpageattr{/Rotate 90}
+  \fi
+  \clearpage
+  \endgroup
+   \if@two@col\twocolumngrid\fi
+\clearpage
+\global\longrotateonfalse
+\global\movetabledown=0pt
+  \global\@colht=\textheight
+  \global\vsize=\textheight
+  \global\@colroom=\textheight}
+
 \newif\if@pt@rot
 \newcommand\rotate{\@pt@rottrue}%
 \newcommand\tabletail[1]{\gdef\pt@tail{#1}}%

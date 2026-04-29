@@ -29,8 +29,8 @@
 \usepackage[utf8]{inputenc}
 \usepackage{adjustbox}
 \usepackage{booktabs}
-\usepackage{lscape} % for rotating tables
-\usepackage{rotating}
+%\usepackage{lscape} % for rotating tables
+%\usepackage{rotating}
 \usepackage{longtable} 
 \usepackage{changepage}
 %\usepackage{supertabular,booktabs} % for wrapping tall tables
@@ -51,17 +51,18 @@
 \usepackage{lipsum}
 \usepackage{mwe}
 \usepackage{wrapfig}
-\usepackage{multicol}
+%\usepackage{multicol}
 \usepackage[font=small]{caption}
 \usepackage{setspace}
 \usepackage{float}
 \usepackage{textcomp}
 \usepackage{siunitx}
 \usepackage{chngcntr}
-\usepackage{tablefootnote}
-%\usepackage{array}
-\usepackage{booktabs}
 \usepackage{rotating}
+\usepackage{tablefootnote}
+\usepackage{array}
+%\usepackage{booktabs}
+
 \usepackage{pdflscape}
 \usepackage{xcolor}
 \usepackage{colortbl}
@@ -93,8 +94,17 @@
 \urldef{\urlA}\url{http://irtfweb.ifa.hawaii.edu/cgi-bin/spex/find_a0v.cgi} % example
 
 %\linenumbers % don't include line numbers in the final draft
-
-
+\renewcommand{\ttdefault}{cmtt}
+\usepackage{xcolor}   
+\newcommand{\rev}[1]{{\color{black} #1}} 
+\usepackage{float}
+\usepackage{wasysym}
+\usepackage{xcolor}
+\usepackage{rotating}
+\usepackage{longtable}
+\usepackage{multirow}
+\usepackage{pdflscape}
+\usepackage{booktabs}
 \input{./cmds.tex}
 
 \begin{document}
@@ -165,12 +175,11 @@
 
 \clearpage
 \resetcounters
-\input{/Users/annepeck/dissertation/APO_accelerating_star_ages_GH/main.tex}
+\input{ch_ages.tex}
 
 \clearpage
 \resetcounters
-\input{/Users/annepeck/dissertation/hd134811_stellar_characterisation/ms.te}
-
+\
 \clearpage
 \resetcounters
 %\input{ch_snrt}
