@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.22)  29 APR 2026 12:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.22)  2 MAY 2026 21:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -744,8 +744,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip71
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 89.
-Package hyperref Info: Option `final' set `true' on input line 89.
+Package hyperref Info: Option `colorlinks' set `true' on input line 88.
+Package hyperref Info: Option `final' set `true' on input line 88.
  (/usr/local/texlive/2026/texmf-dist/tex/latex/etoc/etoc.sty
 Package: etoc 2023/10/29 v1.2d Completely customisable TOCs (JFB)
 
@@ -957,23 +957,18 @@ Package hyperref Info: Link coloring ON on input line 110.
 ]
 \openout2 = `acknowledgements.aux'.
 
- (./acknowledgements.tex
-<intro_figs/thai.pdf, id=23, 95.39641pt x 22.4037pt>
-File: intro_figs/thai.pdf Graphic file (type pdf)
-<use intro_figs/thai.pdf>
-Package pdftex.def Info: intro_figs/thai.pdf  used on input line 8.
-(pdftex.def)             Requested size: 60.50034pt x 14.20834pt.
-) [5
+ (./acknowledgements.tex) [5
 
 
 
- <./intro_figs/thai.pdf>]
+]
 \openout2 = `vita.aux'.
 
  (./vita.tex
 LaTeX Font Info:    Trying to load font information for U+lasy on input line 13
 .
- (/usr/local/texlive/2026/texmf-dist/tex/latex/base/ulasy.fd
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    Trying to load font information for U+msa on input line 13.
@@ -993,22 +988,16 @@ LaTeX Font Info:    Trying to load font information for U+wasy on input line 13
 
 (/usr/local/texlive/2026/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
-)
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.23  2021 - 2026&
-                    M.S., Astronomy  \\
-? 
-[6
+) [6
 
 
 
 ]
-! Misplaced alignment tab character &.
-l.60 &
-      A, 672, 94, doi: 10.1051/0004-6361/202345877
-? 
+Overfull \hbox (3.50851pt too wide) in paragraph at lines 59--60
+\OT1/cmr/m/it/12 Sun-like star AF Lep-oris\OT1/cmr/m/n/12 . A&A, 672, 94, doi: 
+10.1051/0004-6361/202345877 
+ []
+
 [7{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }]) [8]
 \openout2 = `abstract.aux'.
@@ -1046,38 +1035,9 @@ l.60 &
 
 
 ] (./ch_ages.tex (./ages/0abstract.tex)
-(./ages/1intro.tex
-! Undefined control sequence.
-l.1 \Direct
-            imaging of exoplanets allows for demographic studies of wide-sep...
+(./ages/6total_ages.tex
 
-? 
-
-Package natbib Warning: Citation `2019AJ....158...13N' on page 1 undefined on i
-nput line 1.
-
-
-Package natbib Warning: Citation `2021A&A...651A..72V' on page 1 undefined on i
-nput line 1.
-
-
-Package natbib Warning: Citation `2008Sci...322.1348M' on page 1 undefined on i
-nput line 1.
-
-
-Package natbib Warning: Citation `2010Natur.468.1080M' on page 1 undefined on i
-nput line 1.
-
-
-Package natbib Warning: Citation `2009A&A...506..927L' on page 1 undefined on i
-nput line 1.
-
-
-Package natbib Warning: Citation `2015Sci...350...64M' on page 1 undefined on i
-nput line 1.
-
-
-Package natbib Warning: Citation `2024Natur.633..789M' on page 1 undefined on i
+Package natbib Warning: Citation `2013ApJ...776....4N' on page 1 undefined on i
 nput line 1.
 
 
@@ -1085,68 +1045,32 @@ Package natbib Warning: Citation `2019AJ....158...13N' on page 1 undefined on i
 nput line 1.
 
 
-Package natbib Warning: Citation `2021A&A...651A..72V' on page 1 undefined on i
+Package natbib Warning: Citation `2019AJ....158...13N' on page 1 undefined on i
 nput line 1.
 
 
-Package natbib Warning: Citation `2021ApJS..254...42B' on page 1 undefined on i
+Package natbib Warning: Citation `2019AJ....158...13N' on page 1 undefined on i
 nput line 1.
 
 
-Package natbib Warning: Citation `2003IAUS..211..325A' on page 1 undefined on i
+Package natbib Warning: Citation `2019AJ....158...13N' on page 1 undefined on i
 nput line 1.
 
 
-Package natbib Warning: Citation `2021ApJ...920...85M' on page 1 undefined on i
+Package natbib Warning: Citation `2011ApJS..192....3P' on page 1 undefined on i
 nput line 1.
 
 
-Package natbib Warning: Citation `2024ApJ...975...59M' on page 1 undefined on i
+Package natbib Warning: Citation `2004A&A...419..725C' on page 1 undefined on i
 nput line 1.
 
 
-Package natbib Warning: Citation `2020AJ....159...71N' on page 1 undefined on i
+Package natbib Warning: Citation `2019AJ....158...13N' on page 1 undefined on i
 nput line 1.
 
 
-Package natbib Warning: Citation `2023A&A...672A..94D' on page 1 undefined on i
+Package natbib Warning: Citation `2011A&A...530A.138C' on page 1 undefined on i
 nput line 1.
-
-
-Package natbib Warning: Citation `2014ApJ...797...14P' on page 1 undefined on i
-nput line 3.
-
-
-Package natbib Warning: Citation `2016A&A...595A...1G' on page 1 undefined on i
-nput line 3.
-
-
-Package natbib Warning: Citation `1997A&A...323L..49P' on page 1 undefined on i
-nput line 4.
-
-
-Package natbib Warning: Citation `1997A&A...323L..61V' on page 1 undefined on i
-nput line 4.
-
-
-Package natbib Warning: Citation `2023A&A...674A...1G' on page 1 undefined on i
-nput line 4.
-
-
-Package natbib Warning: Citation `2014ApJ...797...14P' on page 1 undefined on i
-nput line 4.
-
-
-Package natbib Warning: Citation `2021ApJS..254...42B' on page 1 undefined on i
-nput line 4.
-
-
-Package natbib Warning: Citation `2024A&A...684C...2K' on page 1 undefined on i
-nput line 4.
-
-
-Package natbib Warning: Citation `2021ApJS..254...42B' on page 1 undefined on i
-nput line 4.
 
 [1
 
@@ -1154,1169 +1078,660 @@ nput line 4.
 
 
 ]
-
-Package natbib Warning: Citation `2015MNRAS.454..593B' on page 2 undefined on i
-nput line 6.
-
-
-Package natbib Warning: Citation `2023A&A...672A..94D' on page 2 undefined on i
-nput line 6.
-
-
-Package natbib Warning: Citation `2023A&A...672A..93M' on page 2 undefined on i
-nput line 6.
-
-
-Package natbib Warning: Citation `2023ApJ...950L..19F' on page 2 undefined on i
-nput line 6.
-
-
-Package natbib Warning: Citation `2023Sci...380..198C' on page 2 undefined on i
-nput line 6.
-
-
-Package natbib Warning: Citation `2022ApJ...934L..18K' on page 2 undefined on i
-nput line 6.
-
-
-Package natbib Warning: Citation `2022AJ....164..152S' on page 2 undefined on i
-nput line 6.
-
-
-Package natbib Warning: Citation `2019AJ....158..226D' on page 2 undefined on i
-nput line 6.
-
-[2]
-
-Package natbib Warning: Citation `2014SPIE.9148E..0JM' on page 3 undefined on i
-nput line 8.
-
-
-Package natbib Warning: Citation `2023ASPC..534..799C' on page 3 undefined on i
-nput line 8.
-
-
-Package natbib Warning: Citation `1971BAAS....3Q.455S' on page 3 undefined on i
-nput line 13.
-
-
-Package natbib Warning: Citation `1991ApJ...375..722S' on page 3 undefined on i
-nput line 13.
-
-
-Package natbib Warning: Citation `2008ApJ...687.1264M' on page 3 undefined on i
-nput line 13.
-
-
-Package natbib Warning: Citation `2020ApJ...898...27S' on page 3 undefined on i
-nput line 13.
-
-[3]
-
-Package natbib Warning: Citation `1993AJ....105.2299S' on page 4 undefined on i
-nput line 15.
-
-
-Package natbib Warning: Citation `2021A&A...654A.137L' on page 4 undefined on i
-nput line 15.
-
-
-Package natbib Warning: Citation `2010ARA&A..48..581S' on page 4 undefined on i
-nput line 15.
-
-
-Package natbib Warning: Citation `1967ApJ...150..551K' on page 4 undefined on i
-nput line 17.
-
-
-Package natbib Warning: Citation `2013ApJ...776....4N' on page 4 undefined on i
-nput line 19.
-
-
-Package natbib Warning: Citation `2019AJ....158...13N' on page 4 undefined on i
-nput line 19.
-
-[4]
-
-LaTeX Warning: Reference `tracers' on page 5 undefined on input line 23.
-
-
-Package natbib Warning: Citation `2020ApJ...898...27S' on page 5 undefined on i
-nput line 23.
-
-
-Package natbib Warning: Citation `2023MNRAS.523..802J' on page 5 undefined on i
-nput line 23.
-
-
-Package natbib Warning: Citation `2019AJ....158..173A' on page 5 undefined on i
-nput line 23.
-
-
-Package natbib Warning: Citation `2023ApJ...947L...3B' on page 5 undefined on i
-nput line 23.
-
-<Tracers_chart.png, id=117, 867.24pt x 505.89pt>
-File: Tracers_chart.png Graphic file (type png)
-<use Tracers_chart.png>
-Package pdftex.def Info: Tracers_chart.png  used on input line 27.
-(pdftex.def)             Requested size: 433.61894pt x 252.94437pt.
-
-Overfull \hbox (18.06645pt too wide) in paragraph at lines 27--28
- [][] 
- []
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-) (./ages/2data_sample.tex
-
-Package natbib Warning: Citation `2021ApJS..254...42B' on page 5 undefined on i
-nput line 1.
-
-
-Package natbib Warning: Citation `2001AJ....122.3466M' on page 5 undefined on i
-nput line 1.
-
-
-Package natbib Warning: Citation `2004A&A...424..727P' on page 5 undefined on i
-nput line 1.
-
-
-Package natbib Warning: Citation `2023A&A...672A..94D' on page 5 undefined on i
-nput line 1.
-
-
-LaTeX Warning: Reference `dot_ex' on page 5 undefined on input line 1.
-
-[5] [6 <./Tracers_chart.png>]
-<HIP000669-acceptance.png, id=132, 1143.27126pt x 1270.7475pt>
-File: HIP000669-acceptance.png Graphic file (type png)
-<use HIP000669-acceptance.png>
-Package pdftex.def Info: HIP000669-acceptance.png  used on input line 5.
-(pdftex.def)             Requested size: 285.81711pt x 317.6861pt.
-<G_dist_bmr.png, id=133, 722.7pt x 722.7pt>
-File: G_dist_bmr.png Graphic file (type png)
-<use G_dist_bmr.png>
-Package pdftex.def Info: G_dist_bmr.png  used on input line 13.
-(pdftex.def)             Requested size: 252.94878pt x 252.94878pt.
-<bmr_G_dist.png, id=134, 722.7pt x 722.7pt>
-File: bmr_G_dist.png Graphic file (type png)
-<use bmr_G_dist.png>
-Package pdftex.def Info: bmr_G_dist.png  used on input line 14.
-(pdftex.def)             Requested size: 252.94878pt x 252.94878pt.
-
-
-LaTeX Warning: Reference `sample' on page 7 undefined on input line 20.
-
-
-Package natbib Warning: Citation `2020ApJ...898...27S' on page 7 undefined on i
-nput line 25.
-
-
-Package natbib Warning: Citation `1997A&A...323L..61V' on page 7 undefined on i
-nput line 25.
-
-
-LaTeX Warning: Reference `bmv' on page 7 undefined on input line 25.
-
-
-Package natbib Warning: Citation `1997A&A...323L..61V' on page 7 undefined on i
-nput line 25.
-
-
-Package natbib Warning: Citation `2023A&A...674A...1G' on page 7 undefined on i
-nput line 25.
-
-[7] [8 <./HIP000669-acceptance.png>]
-Overfull \hbox (80.15501pt too wide) detected at line 30
-[][][]\OML/cmm/m/it/12 B \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 V \OT1/cmr/m/n/1
-2 = \OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 102(
-\OML/cmm/m/it/12 G[] \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 G[]\OT1/cmr/m/n/12 )
-[] + 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 226(\OML/cmm/m/it/12 G[] \OMS/cmsy/m/n/
-12 ^^@ \OML/cmm/m/it/12 G[]\OT1/cmr/m/n/12 )[] + 0\OML/cmm/m/it/12 :\OT1/cmr/m/
-n/12 017(\OML/cmm/m/it/12 G[] \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 G[]\OT1/cmr
-/m/n/12 )[] + 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 688(\OML/cmm/m/it/12 G[] \OMS/
-cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 G[]\OT1/cmr/m/n/12 ) + 0\OML/cmm/m/it/12 :\OT1
-/cmr/m/n/12 002
- []
-
-
-Package natbib Warning: Citation `2023ApJ...947L...3B' on page 9 undefined on i
-nput line 32.
-
-
-Package natbib Warning: Citation `2013ApJS..208....9P' on page 9 undefined on i
-nput line 32.
-
-
-Package natbib Warning: Citation `2003SPIE.4841.1145W' on page 9 undefined on i
-nput line 37.
-
-[9]
-
-Package natbib Warning: Citation `2016SPIE.9913E..3EJ' on page 10 undefined on 
-input line 40.
-
-) (./ages/3lithium.tex
-
-Package natbib Warning: Citation `2020ApJ...898...27S' on page 10 undefined on 
-input line 1.
-
-
-Package natbib Warning: Citation `2023A&A...674A...1G' on page 10 undefined on 
-input line 1.
-
-[10] [11]
-Overfull \hbox (7.85934pt too wide) detected at line 12
-[][][][][]
- []
-
-
-Package natbib Warning: Citation `2013PASP..125..306F' on page 12 undefined on 
-input line 16.
-
-[12] [13]
-
-LaTeX Warning: Reference `li_spec_examples' on page 14 undefined on input line 
-37.
-
-[14]
-<Li_fit_example.png, id=184, 722.7pt x 722.7pt>
-File: Li_fit_example.png Graphic file (type png)
-<use Li_fit_example.png>
-Package pdftex.def Info: Li_fit_example.png  used on input line 43.
-(pdftex.def)             Requested size: 216.81166pt x 216.81166pt.
-<Li_UL_example.png, id=185, 722.7pt x 722.7pt>
-File: Li_UL_example.png Graphic file (type png)
-<use Li_UL_example.png>
-Package pdftex.def Info: Li_UL_example.png  used on input line 44.
-(pdftex.def)             Requested size: 216.81166pt x 216.81166pt.
-
-
-LaTeX Warning: Float too large for page by 16.02873pt on input line 48.
-
-<Lithium_check.png, id=186, 722.7pt x 722.7pt>
-File: Lithium_check.png Graphic file (type png)
-<use Lithium_check.png>
-Package pdftex.def Info: Lithium_check.png  used on input line 53.
-(pdftex.def)             Requested size: 271.01183pt x 271.01183pt.
-
-Package natbib Warning: Citation `1993AJ....105.2299S' on page 15 undefined on 
-input line 54.
-
-
-Package natbib Warning: Citation `2009A&A...504..829G' on page 15 undefined on 
-input line 54.
-
-
-Package natbib Warning: Citation `2003A&A...399..983W' on page 15 undefined on 
-input line 54.
-
-
-Package natbib Warning: Citation `2007AJ....133.2524W' on page 15 undefined on 
-input line 54.
-
-
-Package natbib Warning: Citation `2005PASJ...57...45T' on page 15 undefined on 
-input line 54.
-
-
-Package natbib Warning: Citation `1993AJ....105.2299S' on page 15 undefined on 
-input line 58.
-
-
-Package natbib Warning: Citation `1993ASSL..183..303F' on page 15 undefined on 
-input line 58.
-
-
-Package natbib Warning: Citation `2003A&A...399..983W' on page 15 undefined on 
-input line 58.
-
-
-Package natbib Warning: Citation `2005PASJ...57...45T' on page 15 undefined on 
-input line 58.
-
-
-Package natbib Warning: Citation `2007AJ....133.2524W' on page 15 undefined on 
-input line 58.
-
-
-Package natbib Warning: Citation `2009A&A...504..829G' on page 15 undefined on 
-input line 58.
-
-
-Package natbib Warning: Citation `2013A&A...551L...8P' on page 15 undefined on 
-input line 58.
-
-
-LaTeX Warning: Reference `li_check' on page 15 undefined on input line 58.
-
-
-Package natbib Warning: Citation `1993AJ....105.2299S' on page 15 undefined on 
-input line 58.
-
-
-Package natbib Warning: Citation `1993AJ....105.2299S' on page 15 undefined on 
-input line 58.
-
-[15]
-
-LaTeX Warning: Reference `recovery' on page 16 undefined on input line 60.
-
-<injection_recovery.png, id=191, 722.7pt x 722.7pt>
-File: injection_recovery.png Graphic file (type png)
-<use injection_recovery.png>
-Package pdftex.def Info: injection_recovery.png  used on input line 65.
-(pdftex.def)             Requested size: 271.01183pt x 271.01183pt.
-
-Package natbib Warning: Citation `2020ApJ...898...27S' on page 16 undefined on 
-input line 70.
-
-
-Package natbib Warning: Citation `2020ApJ...898...27S' on page 16 undefined on 
-input line 70.
-
-
-LaTeX Warning: Reference `li_post_example' on page 16 undefined on input line 7
-0.
-
-
-LaTeX Warning: Reference `tab:lithium' on page 16 undefined on input line 70.
-
-[16]
-<example_Li_post.png, id=196, 722.7pt x 722.7pt>
-File: example_Li_post.png Graphic file (type png)
-<use example_Li_post.png>
-Package pdftex.def Info: example_Li_post.png  used on input line 75.
-(pdftex.def)             Requested size: 271.01183pt x 271.01183pt.
-
-
-Package natbib Warning: Citation `2020ApJ...898...27S' on page 17 undefined on 
-input line 76.
-
-
-LaTeX Warning: Reference `tab:lithium' on page 17 undefined on input line 76.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[17] [18 <./G_dist_bmr.png> <./bmr_G_dist.png>] [19 <./Li_fit_example.png> <./L
-i_UL_example.png>] [20 <./Lithium_check.png>] [21 <./injection_recovery.png>]
-[22 <./example_Li_post.png>]) (./ages/4RHK.tex
-
-Package natbib Warning: Citation `1991ApJS...76..383D' on page 23 undefined on 
-input line 1.
-
-
-LaTeX Warning: Reference `RHK_examples' on page 23 undefined on input line 1.
-
-<RHK_ex_HIP102040.png, id=234, 867.24pt x 505.89pt>
-File: RHK_ex_HIP102040.png Graphic file (type png)
-<use RHK_ex_HIP102040.png>
-Package pdftex.def Info: RHK_ex_HIP102040.png  used on input line 5.
-(pdftex.def)             Requested size: 346.88986pt x 202.3524pt.
-<RHK_ex_HIP115147.png, id=235, 867.24pt x 505.89pt>
-File: RHK_ex_HIP115147.png Graphic file (type png)
-<use RHK_ex_HIP115147.png>
-Package pdftex.def Info: RHK_ex_HIP115147.png  used on input line 6.
-(pdftex.def)             Requested size: 346.88986pt x 202.3524pt.
-
-Package natbib Warning: Citation `2013A&A...551L...8P' on page 23 undefined on 
-input line 12.
-
-
-Package natbib Warning: Citation `1991ApJS...76..383D' on page 23 undefined on 
-input line 12.
-
-
-Package natbib Warning: Citation `2004ApJS..152..261W' on page 23 undefined on 
-input line 12.
-
-
-Package natbib Warning: Citation `2003AJ....126.2048G' on page 23 undefined on 
-input line 12.
-
-
-Package natbib Warning: Citation `2004ApJS..152..261W' on page 23 undefined on 
-input line 12.
-
-
-Package natbib Warning: Citation `2004ApJS..152..261W' on page 23 undefined on 
-input line 14.
-
-
-Package natbib Warning: Citation `1991ApJS...76..383D' on page 23 undefined on 
-input line 16.
-
-
-LaTeX Warning: Reference `sec:data' on page 23 undefined on input line 18.
-
-
-Package natbib Warning: Citation `2013ApJS..208....9P' on page 23 undefined on 
-input line 18.
-
-
-Package natbib Warning: Citation `2013A&A...553A...6H' on page 23 undefined on 
-input line 18.
-
-[23
-
-] [24 <./RHK_ex_HIP102040.png> <./RHK_ex_HIP115147.png>]
-
-LaTeX Warning: Reference `eq:s' on page 25 undefined on input line 21.
-
-
-LaTeX Warning: Reference `sval_calib' on page 25 undefined on input line 21.
-
-[25]
-<s_vals_1param.png, id=255, 722.7pt x 722.7pt>
-File: s_vals_1param.png Graphic file (type png)
-<use s_vals_1param.png>
-Package pdftex.def Info: s_vals_1param.png  used on input line 29.
-(pdftex.def)             Requested size: 361.3491pt x 361.3491pt.
-
-
-LaTeX Warning: Reference `tab:rhk' on page 26 undefined on input line 31.
-
-[26 <./s_vals_1param.png>]
-
-Package natbib Warning: Citation `1982PhDT.......153M' on page 27 undefined on 
-input line 41.
-
-
-Package natbib Warning: Citation `1984ApJ...276..254H' on page 27 undefined on 
-input line 41.
-
-<example_Ca_post.png, id=262, 722.7pt x 722.7pt>
-File: example_Ca_post.png Graphic file (type png)
-<use example_Ca_post.png>
-Package pdftex.def Info: example_Ca_post.png  used on input line 44.
-(pdftex.def)             Requested size: 271.01183pt x 271.01183pt.
-
-Package natbib Warning: Citation `2020ApJ...898...27S' on page 27 undefined on 
-input line 46.
-
-
-LaTeX Warning: Reference `tab:rhk' on page 27 undefined on input line 50.
-
-
-Package natbib Warning: Citation `2020ApJ...898...27S' on page 27 undefined on 
-input line 50.
-
-
-LaTeX Warning: Reference `RHK_post_example' on page 27 undefined on input line 
-50.
-
-) [27 <./example_Ca_post.png>] (./ages/5Gyrochronology.tex
-
-Package natbib Warning: Citation `2023ApJ...947L...3B' on page 28 undefined on 
-input line 2.
-
-
-Package natbib Warning: Citation `2016SPIE.9913E..3EJ' on page 28 undefined on 
-input line 2.
-
-
-Package natbib Warning: Citation `1976Ap&SS..39..447L' on page 28 undefined on 
-input line 2.
-
-
-Package natbib Warning: Citation `1982ApJ...263..835S' on page 28 undefined on 
-input line 2.
-
-
-Package natbib Warning: Citation `2016ascl.soft06014N' on page 28 undefined on 
-input line 2.
-
-[28] [29]
-
-Package natbib Warning: Citation `2021AJ....162..147H' on page 30 undefined on 
-input line 13.
-
-
-Package natbib Warning: Citation `2019ApJS..244...21S' on page 30 undefined on 
-input line 13.
-
-
-Package natbib Warning: Citation `2021ApJS..255...17S' on page 30 undefined on 
-input line 13.
-
-
-Package natbib Warning: Citation `2020ApJ...903...99H' on page 30 undefined on 
-input line 13.
-
-
-Package natbib Warning: Citation `2018ApJS..236...16V' on page 30 undefined on 
-input line 13.
-
-
-Package natbib Warning: Citation `2020sdmm.book.....I' on page 30 undefined on 
-input line 13.
-
-
-Package natbib Warning: Citation `2018ApJS..236...16V' on page 30 undefined on 
-input line 13.
-
-
-Package natbib Warning: Citation `2023ApJ...947L...3B' on page 30 undefined on 
-input line 18.
-
-
-LaTeX Warning: Reference `gyro-post' on page 30 undefined on input line 18.
-
-[30]
-<exampleLC.png, id=285, 1300.86pt x 578.16pt>
-File: exampleLC.png Graphic file (type png)
-<use exampleLC.png>
-Package pdftex.def Info: exampleLC.png  used on input line 23.
-(pdftex.def)             Requested size: 455.30783pt x 202.35902pt.
-
-Overfull \hbox (39.75534pt too wide) in paragraph at lines 23--24
- [][] 
- []
-
-<example_gyro_post.png, id=286, 722.7pt x 722.7pt>
-File: example_gyro_post.png Graphic file (type png)
-<use example_gyro_post.png>
-Package pdftex.def Info: example_gyro_post.png  used on input line 32.
-(pdftex.def)             Requested size: 271.01183pt x 271.01183pt.
-
-Package natbib Warning: Citation `2023ApJ...947L...3B' on page 31 undefined on 
-input line 34.
-
-
-Package natbib Warning: Citation `2013MNRAS.432.1203M' on page 31 undefined on 
-input line 41.
-
-[31]
-
-LaTeX Warning: Reference `2_periods' on page 32 undefined on input line 47.
-
-
-Package natbib Warning: Citation `2001AJ....122.3466M' on page 32 undefined on 
-input line 49.
-
-[32 <./exampleLC.png>]
-
-LaTeX Warning: Reference `table:117410' on page 33 undefined on input line 51.
-
-[33 <./example_gyro_post.png>]
-<double_sine_for_paper.png, id=305, 938.50626pt x 612.2875pt>
-File: double_sine_for_paper.png Graphic file (type png)
-<use double_sine_for_paper.png>
-Package pdftex.def Info: double_sine_for_paper.png  used on input line 56.
-(pdftex.def)             Requested size: 281.55405pt x 183.68767pt.
-
-
-Package natbib Warning: Citation `2022ApJS..258...16P' on page 34 undefined on 
-input line 97.
-
-
-Package natbib Warning: Citation `2023A&A...672A.119G' on page 34 undefined on 
-input line 97.
-
-[34 <./double_sine_for_paper.png>]
-
-LaTeX Warning: Reference `table:EBS' on page 35 undefined on input line 99.
-
-
-LaTeX Warning: Reference `EB_ex' on page 35 undefined on input line 99.
-
-<EB_rotation-1.png, id=313, 757.83125pt x 448.67625pt>
-File: EB_rotation-1.png Graphic file (type png)
-<use EB_rotation-1.png>
-Package pdftex.def Info: EB_rotation-1.png  used on input line 103.
-(pdftex.def)             Requested size: 265.2449pt x 157.03903pt.
-<exampleLC_beat.png, id=314, 867.24pt x 505.89pt>
-File: exampleLC_beat.png Graphic file (type png)
-<use exampleLC_beat.png>
-Package pdftex.def Info: exampleLC_beat.png  used on input line 141.
-(pdftex.def)             Requested size: 260.17401pt x 151.76816pt.
-<exampleLC_stochastic.png, id=315, 867.24pt x 505.89pt>
-File: exampleLC_stochastic.png Graphic file (type png)
-<use exampleLC_stochastic.png>
-Package pdftex.def Info: exampleLC_stochastic.png  used on input line 143.
-(pdftex.def)             Requested size: 260.17401pt x 151.76816pt.
-
-Package natbib Warning: Citation `2016MNRAS.458.2307K' on page 35 undefined on 
-input line 144.
-
-[35]
-
-Package natbib Warning: Citation `2013MNRAS.432.1203M' on page 36 undefined on 
-input line 151.
-
-
-LaTeX Warning: Reference `notrot_ex' on page 36 undefined on input line 151.
-
-
-Package natbib Warning: Citation `2022MNRAS.512.4835M' on page 36 undefined on 
-input line 151.
-
-[36 <./EB_rotation-1.png>] [37 <./exampleLC_beat.png> <./exampleLC_stochastic.p
-ng>]) (./ages/6total_ages.tex
-
-Package natbib Warning: Citation `2013ApJ...776....4N' on page 38 undefined on 
-input line 1.
-
-
-Package natbib Warning: Citation `2019AJ....158...13N' on page 38 undefined on 
-input line 1.
-
-
-Package natbib Warning: Citation `2019AJ....158...13N' on page 38 undefined on 
-input line 1.
-
-
-Package natbib Warning: Citation `2019AJ....158...13N' on page 38 undefined on 
-input line 1.
-
-
-Package natbib Warning: Citation `2019AJ....158...13N' on page 38 undefined on 
-input line 1.
-
-
-Package natbib Warning: Citation `2011ApJS..192....3P' on page 38 undefined on 
-input line 1.
-
-
-Package natbib Warning: Citation `2004A&A...419..725C' on page 38 undefined on 
-input line 1.
-
-
-Package natbib Warning: Citation `2019AJ....158...13N' on page 38 undefined on 
-input line 1.
-
-
-Package natbib Warning: Citation `2011A&A...530A.138C' on page 38 undefined on 
-input line 1.
-
-[38]
-
-LaTeX Warning: Reference `tab:general' on page 39 undefined on input line 3.
-
-
-LaTeX Warning: Reference `bmv_age' on page 39 undefined on input line 3.
-
-<age_bmv.png, id=341, 867.24pt x 867.24pt>
+<age_bmv.png, id=131, 867.24pt x 867.24pt>
 File: age_bmv.png Graphic file (type png)
 <use age_bmv.png>
 Package pdftex.def Info: age_bmv.png  used on input line 10.
 (pdftex.def)             Requested size: 303.53854pt x 303.53854pt.
-! Undefined control sequence.
-\longrotatetable ...\longrotateontrue \if@two@col 
-                                                  \onecolumngrid \clearpage ...
-l.19 ...th{\tabcolsep}{4pt}\begin{longrotatetable}
-                                                  
-? 
-! Undefined control sequence.
-\longrotatetable ...ue \if@two@col \onecolumngrid 
-                                                  \clearpage \fi \clearpage ...
-l.19 ...th{\tabcolsep}{4pt}\begin{longrotatetable}
-                                                  
-? 
-[39] [40 <./age_bmv.png>]
-! Extra \fi.
-\longrotatetable ...\onecolumngrid \clearpage \fi 
-                                                  \clearpage \clearpage \beg...
-l.19 ...th{\tabcolsep}{4pt}\begin{longrotatetable}
-                                                  
-? 
-! Undefined control sequence.
-\longrotatetable ...xetable } \global \floatfalse 
-                                                  \global \startlongtabletru...
-l.19 ...th{\tabcolsep}{4pt}\begin{longrotatetable}
-                                                  
-? 
-! Undefined control sequence.
-\longrotatetable ...e \global \startlongtabletrue 
-                                                  \def \LS@rot {\setbox \@ou...
-l.19 ...th{\tabcolsep}{4pt}\begin{longrotatetable}
-                                                  
-? 
+ [2 <./age_bmv.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+[]|\OT1/cmr/m/n/6 3132.71--
+ []
 
-! Package array Error:  Illegal pream-token (\string): `c' used.
 
-See the array package documentation for explanation.
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+[]|\OT1/cmr/m/n/6 1783.08--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
+[]|$\OT1/cmr/m/n/6 12\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 0476 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 2711 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 2808 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 6176 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 0247 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 47--47
+[]|\OT1/cmr/m/n/6 Li UL, R'HK,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--47
+[]|\OT1/cmr/m/n/6 1150.23--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+[]|\OT1/cmr/m/n/6 Li, R'HK,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+[]|\OT1/cmr/m/n/6 4696.93--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+[]|\OT1/cmr/m/n/6 2383.87--
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 55--55
+[]|\OT1/cmr/m/n/6 Li UL, R'HK,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
+[]|\OT1/cmr/m/n/6 4767.61--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+[]|\OT1/cmr/m/n/6 2971.34--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+[]|\OT1/cmr/m/n/6 Li, R'HK,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 5178 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 8658 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 4039 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+[]|\OT1/cmr/m/n/6 Li, R'HK,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+[]|\OT1/cmr/m/n/6 5685.95--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+[]|\OT1/cmr/m/n/6 2863.63--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+[]|$\OT1/cmr/m/n/6 11\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 2101 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
+[]|\OT1/cmr/m/n/6 Li, R'HK,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 3002 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+[]|\OT1/cmr/m/n/6 Li, R'HK,
+ []
+
+
+Underfull \hbox (badness 3977) in paragraph at lines 75--75
+[]|\OT1/cmr/m/n/6 Li UL, Gyro,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 1025 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 80--80
+[]|\OT1/cmr/m/n/6 Li UL, R'HK,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--86
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 1675 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+[]|\OT1/cmr/m/n/6 Li, R'HK,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+[]|\OT1/cmr/m/n/6 3159.78--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
+[]|\OT1/cmr/m/n/6 2077.47--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]|\OT1/cmr/m/n/6 1038.87--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 7232 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--93
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 4419 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--94
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 2697 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+[]|\OT1/cmr/m/n/6 2189.37--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+[]|\OT1/cmr/m/n/6 1010.09--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 4391 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--97
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 0726 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--101
+[]|$\OT1/cmr/m/n/6 11\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 2749 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
+[]|\OT1/cmr/m/n/6 Li, R'HK,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+[]|\OT1/cmr/m/n/6 1184.85--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 4509 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 105--105
+[]|\OT1/cmr/m/n/6 Li UL, R'HK,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--105
+[]|\OT1/cmr/m/n/6 1340.03--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 5142 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 9763 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 110--110
+[]|\OT1/cmr/m/n/6 Li UL, R'HK,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+[]|\OT1/cmr/m/n/6 1054.99--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+[]|$\OT1/cmr/m/n/6 11\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 2695 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 8486 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 7594 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 5279 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--119
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 5229 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
+[]|$\OT1/cmr/m/n/6 11\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 1457 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--122
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 2039 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--123
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 9365 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--124
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 1771 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 3977) in paragraph at lines 125--125
+[]|\OT1/cmr/m/n/6 Li UL, Gyro,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+[]|\OT1/cmr/m/n/6 5708.12--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
+[]|\OT1/cmr/m/n/6 3349.2--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 8203 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
+[]|\OT1/cmr/m/n/6 3637.04--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--133
+[]|\OT1/cmr/m/n/6 1781.04--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--133
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 5512 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 5473 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
+[]|\OT1/cmr/m/n/6 2119.54--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--137
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 4409 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
+[]|\OT1/cmr/m/n/6 1401.11--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 0396 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--140
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 7356 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--141
+[]|\OT1/cmr/m/n/6 6391.7--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+[]|\OT1/cmr/m/n/6 4156.82--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--142
+[]|$\OT1/cmr/m/n/6 11\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 1443 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+[]|$\OT1/cmr/m/n/6 11\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 1775 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--147
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 9351 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 8352 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 3186 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--151
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 5091 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--153
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 4651 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 0215 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 3186 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 8113 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--159
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 7754 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--160
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 1555 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 161--161
+[]|\OT1/cmr/m/n/6 Li UL, R'HK,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--161
+[]|\OT1/cmr/m/n/6 1488.73--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+[]|\OT1/cmr/m/n/6 Li, R'HK,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+[]|\OT1/cmr/m/n/6 2011.77--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--172
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 5661 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 4487 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--176
+[]|\OT1/cmr/m/n/6 5631.85--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--177
+[]|\OT1/cmr/m/n/6 3331.8--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--178
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 5168 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--180
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 5152 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--181
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 3501 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--184
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 2561 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 3977) in paragraph at lines 185--185
+[]|\OT1/cmr/m/n/6 Li UL, Gyro,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--185
+[]|\OT1/cmr/m/n/6 1262.36--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+[]|\OT1/cmr/m/n/6 2829.05--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
+[]|\OT1/cmr/m/n/6 855.62--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 9909 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--192
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 5093 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--193
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 2378 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 3977) in paragraph at lines 194--194
+[]|\OT1/cmr/m/n/6 Li UL, Gyro,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--195
+[]|$\OT1/cmr/m/n/6 11\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 2184 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--196
+[]|\OT1/cmr/m/n/6 Li, R'HK,
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 197--197
+[]|\OT1/cmr/m/n/6 Li UL, R'HK,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
+[]|\OT1/cmr/m/n/6 1124.39--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--198
+[]|\OT1/cmr/m/n/6 6862.42--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+[]|\OT1/cmr/m/n/6 4396.19--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--201
+[]|$\OT1/cmr/m/n/6 11\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 1245 \OMS/cmsy/m/n/6 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--203
+[]|\OT1/cmr/m/n/6 309.22--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--203
+[]|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 0403 \OMS/cmsy/m/n/6 ^^F
+ []
+
+[3
+
+
+] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14]
+
+Package natbib Warning: Citation `2020ApJ...898...27S' on page 15 undefined on 
+input line 213.
+
+)) [15
+
+
+] [16
+
+] (./main.bbl
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 \startdata
-               
+l.8 \end{thebibliography}
+                         
 ? 
-
-Overfull \hbox (240.13922pt too wide) in alignment at lines 32--200
-[] [] [] [] [] [] [] [] [] [] [] [][]
- []
-
-Page 1 of table 7.2 has been set to width 415.55249pt with 35 lines per page 
-
-LaTeX Warning: Float too large for page by 1736.46724pt on input line 203.
-
-! Undefined control sequence.
-\endlongrotatetable ->\onecolumngrid 
-                                     \clearpage \ifGin@pdftex \pdfpageattr {...
-l.204 \end{longrotatetable}
-                           }
-? 
-! Undefined control sequence.
-\LS@rot ...outputbox \vbox {\vskip \movetabledown 
-                                                  \hbox {\rotatebox {90}{\bo...
-l.204 \end{longrotatetable}
-                           }
-? 
-! Missing number, treated as zero.
-<to be read again> 
-                   \hbox 
-l.204 \end{longrotatetable}
-                           }
-? 
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \hbox 
-l.204 \end{longrotatetable}
-                           }
-? 
-[41]
-! Undefined control sequence.
-\LS@rot ...outputbox \vbox {\vskip \movetabledown 
-                                                  \hbox {\rotatebox {90}{\bo...
-l.204 \end{longrotatetable}
-                           }
-? 
-! Missing number, treated as zero.
-<to be read again> 
-                   \hbox 
-l.204 \end{longrotatetable}
-                           }
-? 
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \hbox 
-l.204 \end{longrotatetable}
-                           }
-? 
-! Undefined control sequence.
-\LS@rot ...outputbox \vbox {\vskip \movetabledown 
-                                                  \hbox {\rotatebox {90}{\bo...
-l.204 \end{longrotatetable}
-                           }
-? 
-! Missing number, treated as zero.
-<to be read again> 
-                   \hbox 
-l.204 \end{longrotatetable}
-                           }
-? 
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \hbox 
-l.204 \end{longrotatetable}
-                           }
-? 
-! Undefined control sequence.
-\endlongrotatetable ...page \endgroup \if@two@col 
-                                                  \twocolumngrid \fi \clearp...
-l.204 \end{longrotatetable}
-                           }
-? 
-! Undefined control sequence.
-\endlongrotatetable ...\if@two@col \twocolumngrid 
-                                                  \fi \clearpage \global \lo...
-l.204 \end{longrotatetable}
-                           }
-? 
-! Extra \fi.
-\endlongrotatetable ...two@col \twocolumngrid \fi 
-                                                  \clearpage \global \longro...
-l.204 \end{longrotatetable}
-                           }
-? 
-! Undefined control sequence.
-\endlongrotatetable ...lse \global \movetabledown 
-                                                  =0pt \global \@colht =\tex...
-l.204 \end{longrotatetable}
-                           }
-? 
-! You can't use a prefix with `the character ='.
-<to be read again> 
-                   =
-l.204 \end{longrotatetable}
-                           }
-? 
-[42
-
-
-
-
-
-
-]
-
-Package natbib Warning: Citation `2020ApJ...898...27S' on page 43 undefined on 
-input line 210.
-
-) (./ages/7discussion.tex [43
-
-]
-
-Package natbib Warning: Citation `1990Ap&SS.163..229R' on page 44 undefined on 
-input line 5.
-
-
-Package natbib Warning: Citation `2023MNRAS.522.1643C' on page 44 undefined on 
-input line 5.
-
-
-Package natbib Warning: Citation `2006A&A...459..783C' on page 44 undefined on 
-input line 5.
-
-
-Package natbib Warning: Citation `2018Natur.559..585N' on page 44 undefined on 
-input line 5.
-
-
-Package natbib Warning: Citation `2020ApJ...898...27S' on page 44 undefined on 
-input line 5.
-
-
-Package natbib Warning: Citation `2023ApJ...947L...3B' on page 44 undefined on 
-input line 5.
-
-[44]
-
-LaTeX Warning: Reference `global_post' on page 45 undefined on input line 11.
-
-
-Package natbib Warning: Citation `1955ApJ...121..161S' on page 45 undefined on 
-input line 11.
-
-
-Package natbib Warning: Citation `2003PASP..115..763C' on page 45 undefined on 
-input line 11.
-
-
-Package natbib Warning: Citation `2003ApJ...598.1076K' on page 45 undefined on 
-input line 11.
-
-
-Package natbib Warning: Citation `2023ASPC..534..275O' on page 45 undefined on 
-input line 11.
-
-
-LaTeX Warning: Reference `global_post' on page 45 undefined on input line 11.
-
-<global_post.png, id=374, 722.7pt x 722.7pt>
-File: global_post.png Graphic file (type png)
-<use global_post.png>
-Package pdftex.def Info: global_post.png  used on input line 17.
-(pdftex.def)             Requested size: 252.94878pt x 252.94878pt.
-<global_post_late.png, id=375, 722.7pt x 722.7pt>
-File: global_post_late.png Graphic file (type png)
-<use global_post_late.png>
-Package pdftex.def Info: global_post_late.png  used on input line 18.
-(pdftex.def)             Requested size: 252.94878pt x 252.94878pt.
-[45]
-
-LaTeX Warning: Reference `global_post_late' on page 46 undefined on input line 
-30.
-
-[46]
-<global_post_late_lid_gyro.png, id=384, 722.7pt x 722.7pt>
-File: global_post_late_lid_gyro.png Graphic file (type png)
-<use global_post_late_lid_gyro.png>
-Package pdftex.def Info: global_post_late_lid_gyro.png  used on input line 35.
-(pdftex.def)             Requested size: 252.94878pt x 252.94878pt.
-<global_post_late_Li_UL.png, id=385, 722.7pt x 722.7pt>
-File: global_post_late_Li_UL.png Graphic file (type png)
-<use global_post_late_Li_UL.png>
-Package pdftex.def Info: global_post_late_Li_UL.png  used on input line 37.
-(pdftex.def)             Requested size: 252.94878pt x 252.94878pt.
-
-
-LaTeX Warning: Reference `LiGyroPost' on page 47 undefined on input line 44.
-
-[47] [48]
-<global_post_late_Li.png, id=396, 722.7pt x 722.7pt>
-File: global_post_late_Li.png Graphic file (type png)
-<use global_post_late_Li.png>
-Package pdftex.def Info: global_post_late_Li.png  used on input line 67.
-(pdftex.def)             Requested size: 252.94878pt x 252.94878pt.
-<global_post_late_Gyro.png, id=397, 722.7pt x 722.7pt>
-File: global_post_late_Gyro.png Graphic file (type png)
-<use global_post_late_Gyro.png>
-Package pdftex.def Info: global_post_late_Gyro.png  used on input line 67.
-(pdftex.def)             Requested size: 252.94878pt x 252.94878pt.
-
-
-LaTeX Warning: Float too large for page by 15.80296pt on input line 67.
-
-
-Package natbib Warning: Citation `2019AJ....158..226D' on page 49 undefined on 
-input line 67.
-
-
-LaTeX Warning: Reference `sec:gyro' on page 49 undefined on input line 67.
-
-[49]
-
-Package natbib Warning: Citation `2022ApJ...934L..18K' on page 50 undefined on 
-input line 73.
-
-
-Package natbib Warning: Citation `2018ApJ...856...23G' on page 50 undefined on 
-input line 73.
-
-
-LaTeX Warning: Reference `sec:total_ages' on page 50 undefined on input line 73
-.
-
-
-Package natbib Warning: Citation `2022AJ....164..152S' on page 50 undefined on 
-input line 73.
-
-
-Package natbib Warning: Citation `2011A&A...530A.138C' on page 50 undefined on 
-input line 73.
-
-
-Package natbib Warning: Citation `2008A&A...484..815B' on page 50 undefined on 
-input line 73.
-
-
-Package natbib Warning: Citation `2009A&A...508..355B' on page 50 undefined on 
-input line 73.
-
-[50] [51] [52 <./global_post.png> <./global_post_late.png>] [53 <./global_post_
-late_lid_gyro.png> <./global_post_late_Li_UL.png>] [54 <./global_post_late_Li.p
-ng> <./global_post_late_Gyro.png>]) (./ages/9conclusions.tex [55
-
-])
-(./ages/appendix.tex
-<color-color-fit.png, id=438, 867.24pt x 867.24pt>
-File: color-color-fit.png Graphic file (type png)
-<use color-color-fit.png>
-Package pdftex.def Info: color-color-fit.png  used on input line 3.
-(pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
-
-
-Package natbib Warning: Citation `1997A&A...323L..61V' on page 56 undefined on 
-input line 4.
-
-
-Package natbib Warning: Citation `2023A&A...674A...1G' on page 56 undefined on 
-input line 4.
-
-
-Package natbib Warning: Citation `2020ApJ...898...27S' on page 56 undefined on 
-input line 4.
-
-! Misplaced \noalign.
-\caption ->\noalign 
-                    \bgroup \@ifnextchar [{\egroup \LT@c@ption \@firstofone ...
-l.12 \caption
-             {We present our lithium equivalent width measurements or upper ...
-
-? 
-! Misplaced \noalign.
-\caption@LT@make #1->\noalign 
-                              {\caption@LT@config }\expandafter \LT@mcol \ex...
-l.12 ...} range, we do not derive age posteriors.}
-                                                   \\
-? 
-! Misplaced \omit.
-\multispan ->\omit 
-                   \@multispan 
-l.12 ...} range, we do not derive age posteriors.}
-                                                   \\
-? 
-
-Overfull \hbox (163.65042pt too wide) in alignment at lines 26--194
- [] [] [] [] [] [] [] [] [] 
- []
-
-
-Package longtable Warning: Column widths have changed
-(longtable)                in table .1 on input line 194.
-
-
-ignored: Infinite glue shrinkage found in box being split [56]
-ignored: Infinite glue shrinkage fo
-und in box being split [57]
-ignored: Infinite glue shrinkage found in box being split [58
-]
-ignored: Infinite glue shrinkage found in box being split [59]
-ignored: Infinite glue shrinkage f
-ound in box being split [60]
-ignored: Infinite glue shrinkage found in box being split [6
-1]
-ignored: Infinite glue shrinkage found in box being split [62]
-ignored: Infinite glue shrinkage 
-found in box being split [63]
-ignored: Infinite glue shrinkage found in box being split [
-64]
-ignored: Infinite glue shrinkage found in box being split [65]
-ignored: Infinite glue shrinkage
- found in box being split [66]
-! Misplaced \noalign.
-\caption ->\noalign 
-                    \bgroup \@ifnextchar [{\egroup \LT@c@ption \@firstofone ...
-l.200 \caption
-              {Each target star and its adopted $B-V$, measured S index and ...
-
-? 
-! Misplaced \noalign.
-\caption@LT@make #1->\noalign 
-                              {\caption@LT@config }\expandafter \LT@mcol \ex...
-l.200 ... $68\%$ and $98\%$ confidence intervals.}
-                                                  \\
-? 
-! Misplaced \omit.
-\multispan ->\omit 
-                   \@multispan 
-l.200 ... $68\%$ and $98\%$ confidence intervals.}
-                                                  \\
-? 
-
-Overfull \hbox (82.47197pt too wide) in alignment at lines 216--384
- [] [] [] [] [] [] [] [] 
- []
-
-
-Package longtable Warning: Column widths have changed
-(longtable)                in table .2 on input line 384.
-
-
-ignored: Infinite glue shrinkage found in box being split [67]
-ignored: Infinite glue shrinkage fo
-und in box being split [68]
-ignored: Infinite glue shrinkage found in box being split [69
-]
-ignored: Infinite glue shrinkage found in box being split [70]
-ignored: Infinite glue shrinkage f
-ound in box being split [71]
-ignored: Infinite glue shrinkage found in box being split [7
-2]
-ignored: Infinite glue shrinkage found in box being split [73]
-ignored: Infinite glue shrinkage 
-found in box being split [74]
-ignored: Infinite glue shrinkage found in box being split [
-75]
-ignored: Infinite glue shrinkage found in box being split [76]
-! Misplaced \noalign.
-\caption ->\noalign 
-                    \bgroup \@ifnextchar [{\egroup \LT@c@ption \@firstofone ...
-l.389 \caption
-              {Rotation period measurements for 23 of our 166 accelerating s...
-
-? 
-! Misplaced \noalign.
-\caption@LT@make #1->\noalign 
-                              {\caption@LT@config }\expandafter \LT@mcol \ex...
-l.389 ...he \texttt{gyro-interp} $T_{eff}$ range.}
-                                                  \\
-? 
-! Misplaced \omit.
-\multispan ->\omit 
-                   \@multispan 
-l.389 ...he \texttt{gyro-interp} $T_{eff}$ range.}
-                                                  \\
-? 
-
-Overfull \hbox (71.6044pt too wide) in alignment at lines 405--573
- [] [] [] [] [] [] [] 
- []
-
-[77]
-
-Package longtable Warning: Column widths have changed
-(longtable)                in table .3 on input line 573.
-
-
-ignored: Infinite glue shrinkage found in box being split [78 <./color-color-fit.png>]
-ignored: In
-finite glue shrinkage found in box being split [79]
-ignored: Infinite glue shrinkage foun
-d in box being split [80]
-ignored: Infinite glue shrinkage found in box being split [81]
-ignored: I
-nfinite glue shrinkage found in box being split [82]
-ignored: Infinite glue shrinkage fou
-nd in box being split [83]
-ignored: Infinite glue shrinkage found in box being split [84]
-
-ignored: Infinite glue shrinkage found in box being split [85]
-ignored: Infinite glue shrinkage fo
-und in box being split [86]
-ignored: Infinite glue shrinkage found in box being split [87
-]
-ignored: Infinite glue shrinkage found in box being split
-[88])) [89] [90
-
-]
-No file main.bbl.
+)
 
 Package natbib Warning: There were undefined citations.
 
+[17
 
-Package longtable Warning: Table widths have changed. Rerun LaTeX.
 
-(./main.aux (./title.aux) (./committee.aux) (./dedication.aux)
+
+
+] (./main.aux (./title.aux) (./committee.aux) (./dedication.aux)
 (./acknowledgements.aux) (./vita.aux) (./abstract.aux) (./abbrev.aux)
 (./symbols.aux))
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  C3C76DF128C69916E43AF8A5533813B2;2811.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 174D5364009DC9E3A0C4F302F5BC9B0F;1064.
  ) 
 Here is how much of TeX's memory you used:
- 22349 strings out of 467525
- 423068 string characters out of 5418982
- 1167243 words of memory out of 5000000
- 50641 multiletter control sequences out of 15000+600000
- 643953 words of font info for 106 fonts, out of 8000000 for 9000
+ 21917 strings out of 467525
+ 414594 string characters out of 5418982
+ 1305243 words of memory out of 5000000
+ 50357 multiletter control sequences out of 15000+600000
+ 638643 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 73i,12n,79p,1761b,1239s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 73i,11n,79p,1669b,1250s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
-</usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
-/usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
-usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></us
-r/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/
-local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/lo
-cal/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loca
-l/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/t
-exlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texl
-ive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive
-/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/
-2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/20
-26/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2026
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2026/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2026/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2026/te
-xmf-dist/fonts/type1/public/fonts-tlwg/loma.pfb></usr/local/texlive/2026/texmf-
-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2026/te
-xmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on main.pdf (104 pages, 2319165 bytes).
+></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
+</usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></
+usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></us
+r/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
+local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/lo
+cal/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local
+/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/te
+xlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/tex
+live/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texli
+ve/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive
+/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/
+2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2
+026/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on main.pdf (31 pages, 256807 bytes).
 PDF statistics:
- 714 PDF objects out of 1000 (max. 8388607)
- 505 compressed objects within 6 object streams
- 166 named destinations out of 1000 (max. 500000)
- 141 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 281 PDF objects out of 1000 (max. 8388607)
+ 215 compressed objects within 3 object streams
+ 44 named destinations out of 1000 (max. 500000)
+ 70 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -35,7 +35,6 @@
 \usepackage{changepage}
 %\usepackage{supertabular,booktabs} % for wrapping tall tables
 \usepackage{upgreek} % for non-italic greek characters
-\usepackage{amsmath} % for multiple lines of math
 \usepackage{gensymb} % for degree symbol
 \usepackage{multirow} % to make table headers across multiple rows
 %\usepackage{float} % for forcing plots to go where i want
@@ -89,7 +88,9 @@
 }
 
 \usepackage{etoc}
-
+\usepackage{longtable}
+\usepackage{booktabs}    % nicer lines (optional but recommended)
+\usepackage{adjustbox}   % for scaling
 \usepackage{url} % Used to include URLs as footnotes
 \urldef{\urlA}\url{http://irtfweb.ifa.hawaii.edu/cgi-bin/spex/find_a0v.cgi} % example
 
@@ -101,7 +102,6 @@
 \usepackage{wasysym}
 \usepackage{xcolor}
 \usepackage{rotating}
-\usepackage{longtable}
 \usepackage{multirow}
 \usepackage{pdflscape}
 \usepackage{booktabs}

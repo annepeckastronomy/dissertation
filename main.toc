@@ -5,18 +5,6 @@
 \contentsline {section}{\MakeUppercase []{List of Symbols}}{xiv}{section*.5}%
 
 \contentsline {section}{\numberline {1}\MakeUppercase []{title}}{1}{section.1}%
-\contentsline {section}{\numberline {2}Introduction}{1}{section.2}%
-\contentsline {section}{\numberline {3}Sample, observations, and data reduction}{5}{section.3}%
-\contentsline {section}{\numberline {4}Lithium}{10}{section.4}%
-\contentsline {section}{\numberline {5}Calcium Emission}{23}{section.5}%
-\contentsline {section}{\numberline {6}Gyrochronology}{28}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Complex light curves}{31}{subsection.6.1}%
-\contentsline {section}{\numberline {7}Combined Age Posteriors}{38}{section.7}%
-\contentsline {subsection}{\numberline {7.1}Stars within the Lithium Dip}{43}{subsection.7.1}%
-\contentsline {section}{\numberline {8}Discussion}{44}{section.8}%
-\contentsline {subsection}{\numberline {8.1}Star Formation History of the Solar Neighborhood}{44}{subsection.8.1}%
-\contentsline {subsection}{\numberline {8.2}Population Level Ages}{44}{subsection.8.2}%
-\contentsline {subsection}{\numberline {8.3}Testing Individual Age Tracers}{47}{subsection.8.3}%
-\contentsline {subsection}{\numberline {8.4}Companions}{50}{subsection.8.4}%
-\contentsline {section}{\numberline {9}Conclusions}{55}{section.9}%
-\contentsline {section}{\numberline {Appendices}}{}{}
+\contentsline {section}{\numberline {2}Combined Age Posteriors}{1}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Stars within the Lithium Dip}{15}{subsection.2.1}%
+\contentsline {section}{REFERENCES}{17}{subsection.2.1}%
