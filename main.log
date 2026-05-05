@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.22)  2 MAY 2026 21:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.22)  4 MAY 2026 20:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -828,8 +828,7 @@ Package: multicol 2025/10/21 v2.0b multicolumn formatting (FMi)
 Package translations Info: No language package found. I am going to use `englis
 h' as default language. on input line 110.
 (./main.aux (./title.aux) (./committee.aux) (./dedication.aux)
-(./acknowledgements.aux) (./vita.aux) (./abstract.aux) (./abbrev.aux)
-(./symbols.aux))
+(./acknowledgements.aux) (./vita.aux) (./abbrev.aux) (./symbols.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 110.
@@ -1000,90 +999,213 @@ Overfull \hbox (3.50851pt too wide) in paragraph at lines 59--60
 
 [7{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }]) [8]
-\openout2 = `abstract.aux'.
-
- (./abstract.tex) [9
-
-
-
-]
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- [10
+ [9
 
 
-] (./main.lot)
+]
+Overfull \hbox (50.33907pt too wide) detected at line 141
+\OT1/cmr/bx/n/12 Appendices 
+ []
+
+[10] (./main.lot)
 \tf@lot=\write5
 \openout5 = `main.lot'.
 
- [11] (./main.lof)
+ [11] (./main.lof [12] [13]
+Overfull \hbox (5.48491pt too wide) in paragraph at lines 12--12
+ [][] [][][]\OT1/cmr/m/n/12 We cal-cu-late age pos-te-ri-ors from ro-ta-tion pe
+-ri-ods us-ing \OT1/cmtt/m/n/12 gyro-interp 
+ []
+
+[14] [15]
+Overfull \hbox (6.62099pt too wide) in paragraph at lines 26--26
+ [][] [][][]\OT1/cmr/m/n/12 The pos-te-rior dis-tri-bu-tion for the bi-nary fit
+ to the 2018-04-18 FEROS 
+ []
+
+[16])
 \tf@lof=\write6
 \openout6 = `main.lof'.
 
- [12]
+ [17]
 \openout2 = `abbrev.aux'.
 
-
-(./abbrev.tex) [13
+ (./abbrev.tex) [18
 
 ]
 \openout2 = `symbols.aux'.
 
- (./symbols.tex) [14
+ (./symbols.tex) [19
 
 
 
-] (./ch_ages.tex (./ages/0abstract.tex)
-(./ages/6total_ages.tex
+] (./ch_ages.tex
 
-Package natbib Warning: Citation `2013ApJ...776....4N' on page 1 undefined on i
-nput line 1.
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 2.
 
-
-Package natbib Warning: Citation `2019AJ....158...13N' on page 1 undefined on i
-nput line 1.
-
-
-Package natbib Warning: Citation `2019AJ....158...13N' on page 1 undefined on i
-nput line 1.
-
-
-Package natbib Warning: Citation `2019AJ....158...13N' on page 1 undefined on i
-nput line 1.
-
-
-Package natbib Warning: Citation `2019AJ....158...13N' on page 1 undefined on i
-nput line 1.
-
-
-Package natbib Warning: Citation `2011ApJS..192....3P' on page 1 undefined on i
-nput line 1.
-
-
-Package natbib Warning: Citation `2004A&A...419..725C' on page 1 undefined on i
-nput line 1.
-
-
-Package natbib Warning: Citation `2019AJ....158...13N' on page 1 undefined on i
-nput line 1.
-
-
-Package natbib Warning: Citation `2011A&A...530A.138C' on page 1 undefined on i
-nput line 1.
+(./ages/0abstract.tex) (./ages/1intro.tex
+Overfull \hbox (2.70845pt too wide) in paragraph at lines 1--2
+[]\OT1/cmr/m/n/12 Direct imag-ing of ex-o-plan-ets al-lows for de-mo-graphic st
+ud-ies of wide-separation
+ []
 
 [1
 
 
 
 
-]
-<age_bmv.png, id=131, 867.24pt x 867.24pt>
+] [2] [3] [4] [5]
+<Tracers_chart.png, id=728, 867.24pt x 505.89pt>
+File: Tracers_chart.png Graphic file (type png)
+<use Tracers_chart.png>
+Package pdftex.def Info: Tracers_chart.png  used on input line 27.
+(pdftex.def)             Requested size: 433.61894pt x 252.94437pt.
+
+Overfull \hbox (18.06645pt too wide) in paragraph at lines 27--28
+ [][] 
+ []
+
+) (./ages/2data_sample.tex [6 <./Tracers_chart.png>]
+<HIP000669-acceptance.png, id=747, 1143.27126pt x 1270.7475pt>
+File: HIP000669-acceptance.png Graphic file (type png)
+<use HIP000669-acceptance.png>
+Package pdftex.def Info: HIP000669-acceptance.png  used on input line 5.
+(pdftex.def)             Requested size: 285.81711pt x 317.6861pt.
+<G_dist_bmr.png, id=748, 722.7pt x 722.7pt>
+File: G_dist_bmr.png Graphic file (type png)
+<use G_dist_bmr.png>
+Package pdftex.def Info: G_dist_bmr.png  used on input line 13.
+(pdftex.def)             Requested size: 252.94878pt x 252.94878pt.
+<bmr_G_dist.png, id=749, 722.7pt x 722.7pt>
+File: bmr_G_dist.png Graphic file (type png)
+<use bmr_G_dist.png>
+Package pdftex.def Info: bmr_G_dist.png  used on input line 14.
+(pdftex.def)             Requested size: 252.94878pt x 252.94878pt.
+ [7] [8 <./HIP000669-acceptance.png>] [9] [10]) (./ages/3lithium.tex [11]
+Overfull \hbox (7.85934pt too wide) detected at line 12
+[][][][][]
+ []
+
+[12] [13] [14]
+<Li_fit_example.png, id=826, 722.7pt x 722.7pt>
+File: Li_fit_example.png Graphic file (type png)
+<use Li_fit_example.png>
+Package pdftex.def Info: Li_fit_example.png  used on input line 43.
+(pdftex.def)             Requested size: 216.81166pt x 216.81166pt.
+<Li_UL_example.png, id=827, 722.7pt x 722.7pt>
+File: Li_UL_example.png Graphic file (type png)
+<use Li_UL_example.png>
+Package pdftex.def Info: Li_UL_example.png  used on input line 44.
+(pdftex.def)             Requested size: 216.81166pt x 216.81166pt.
+
+
+LaTeX Warning: Float too large for page by 16.02873pt on input line 48.
+
+<Lithium_check.png, id=828, 722.7pt x 722.7pt>
+File: Lithium_check.png Graphic file (type png)
+<use Lithium_check.png>
+Package pdftex.def Info: Lithium_check.png  used on input line 53.
+(pdftex.def)             Requested size: 271.01183pt x 271.01183pt.
+[15] [16]
+<injection_recovery.png, id=870, 722.7pt x 722.7pt>
+File: injection_recovery.png Graphic file (type png)
+<use injection_recovery.png>
+Package pdftex.def Info: injection_recovery.png  used on input line 65.
+(pdftex.def)             Requested size: 271.01183pt x 271.01183pt.
+ [17]
+<example_Li_post.png, id=881, 722.7pt x 722.7pt>
+File: example_Li_post.png Graphic file (type png)
+<use example_Li_post.png>
+Package pdftex.def Info: example_Li_post.png  used on input line 75.
+(pdftex.def)             Requested size: 271.01183pt x 271.01183pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[18] [19 <./G_dist_bmr.png> <./bmr_G_dist.png>] [20 <./Li_fit_example.png> <./L
+i_UL_example.png>] [21 <./Lithium_check.png>] [22 <./injection_recovery.png>]
+[23 <./example_Li_post.png>]) (./ages/4RHK.tex
+<RHK_ex_HIP102040.png, id=920, 867.24pt x 505.89pt>
+File: RHK_ex_HIP102040.png Graphic file (type png)
+<use RHK_ex_HIP102040.png>
+Package pdftex.def Info: RHK_ex_HIP102040.png  used on input line 5.
+(pdftex.def)             Requested size: 346.88986pt x 202.3524pt.
+<RHK_ex_HIP115147.png, id=921, 867.24pt x 505.89pt>
+File: RHK_ex_HIP115147.png Graphic file (type png)
+<use RHK_ex_HIP115147.png>
+Package pdftex.def Info: RHK_ex_HIP115147.png  used on input line 6.
+(pdftex.def)             Requested size: 346.88986pt x 202.3524pt.
+ [24
+
+] [25 <./RHK_ex_HIP102040.png> <./RHK_ex_HIP115147.png>] [26]
+<s_vals_1param.png, id=966, 722.7pt x 722.7pt>
+File: s_vals_1param.png Graphic file (type png)
+<use s_vals_1param.png>
+Package pdftex.def Info: s_vals_1param.png  used on input line 29.
+(pdftex.def)             Requested size: 361.3491pt x 361.3491pt.
+<example_Ca_post.png, id=972, 722.7pt x 722.7pt>
+File: example_Ca_post.png Graphic file (type png)
+<use example_Ca_post.png>
+Package pdftex.def Info: example_Ca_post.png  used on input line 44.
+(pdftex.def)             Requested size: 271.01183pt x 271.01183pt.
+) [27] (./ages/5Gyrochronology.tex [28 <./s_vals_1param.png>] [29 <./example_Ca
+_post.png>] [30] [31]
+<exampleLC.png, id=1042, 1300.86pt x 578.16pt>
+File: exampleLC.png Graphic file (type png)
+<use exampleLC.png>
+Package pdftex.def Info: exampleLC.png  used on input line 23.
+(pdftex.def)             Requested size: 455.30783pt x 202.35902pt.
+
+Overfull \hbox (39.75534pt too wide) in paragraph at lines 23--24
+ [][] 
+ []
+
+<example_gyro_post.png, id=1043, 722.7pt x 722.7pt>
+File: example_gyro_post.png Graphic file (type png)
+<use example_gyro_post.png>
+Package pdftex.def Info: example_gyro_post.png  used on input line 32.
+(pdftex.def)             Requested size: 271.01183pt x 271.01183pt.
+[32] [33 <./exampleLC.png>] [34 <./example_gyro_post.png>]
+<double_sine_for_paper.png, id=1069, 938.50626pt x 612.2875pt>
+File: double_sine_for_paper.png Graphic file (type png)
+<use double_sine_for_paper.png>
+Package pdftex.def Info: double_sine_for_paper.png  used on input line 56.
+(pdftex.def)             Requested size: 281.55405pt x 183.68767pt.
+ [35 <./double_sine_for_paper.png>] [36]
+<EB_rotation-1.png, id=1090, 757.83125pt x 448.67625pt>
+File: EB_rotation-1.png Graphic file (type png)
+<use EB_rotation-1.png>
+Package pdftex.def Info: EB_rotation-1.png  used on input line 103.
+(pdftex.def)             Requested size: 265.2449pt x 157.03903pt.
+<exampleLC_beat.png, id=1091, 867.24pt x 505.89pt>
+File: exampleLC_beat.png Graphic file (type png)
+<use exampleLC_beat.png>
+Package pdftex.def Info: exampleLC_beat.png  used on input line 141.
+(pdftex.def)             Requested size: 260.17401pt x 151.76816pt.
+<exampleLC_stochastic.png, id=1092, 867.24pt x 505.89pt>
+File: exampleLC_stochastic.png Graphic file (type png)
+<use exampleLC_stochastic.png>
+Package pdftex.def Info: exampleLC_stochastic.png  used on input line 143.
+(pdftex.def)             Requested size: 260.17401pt x 151.76816pt.
+ [37 <./EB_rotation-1.png>]
+Overfull \vbox (1.77504pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (1.77504pt too high) has occurred while \output is active []
+
+
+[38 <./exampleLC_beat.png> <./exampleLC_stochastic.png>])
+(./ages/6total_ages.tex [39]
+<age_bmv.png, id=1135, 867.24pt x 867.24pt>
 File: age_bmv.png Graphic file (type png)
 <use age_bmv.png>
 Package pdftex.def Info: age_bmv.png  used on input line 10.
 (pdftex.def)             Requested size: 303.53854pt x 303.53854pt.
- [2 <./age_bmv.png>]
+ [40] [41 <./age_bmv.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 41--41
 []|\OT1/cmr/m/n/6 3132.71--
  []
@@ -1663,75 +1785,297 @@ Underfull \hbox (badness 10000) in paragraph at lines 203--203
 []|$\OT1/cmr/m/n/6 10\OML/cmm/m/it/6 :\OT1/cmr/m/n/6 0403 \OMS/cmsy/m/n/6 ^^F
  []
 
-[3
+[42
 
 
-] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14]
-
-Package natbib Warning: Citation `2020ApJ...898...27S' on page 15 undefined on 
-input line 213.
-
-)) [15
+] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53]) [54
 
 
-] [16
+]
+(./ages/7discussion.tex [55] [56]
+<global_post.png, id=1245, 722.7pt x 722.7pt>
+File: global_post.png Graphic file (type png)
+<use global_post.png>
+Package pdftex.def Info: global_post.png  used on input line 17.
+(pdftex.def)             Requested size: 252.94878pt x 252.94878pt.
+<global_post_late.png, id=1246, 722.7pt x 722.7pt>
+File: global_post_late.png Graphic file (type png)
+<use global_post_late.png>
+Package pdftex.def Info: global_post_late.png  used on input line 18.
+(pdftex.def)             Requested size: 252.94878pt x 252.94878pt.
+ [57]
+<global_post_late_lid_gyro.png, id=1253, 722.7pt x 722.7pt>
+File: global_post_late_lid_gyro.png Graphic file (type png)
+<use global_post_late_lid_gyro.png>
+Package pdftex.def Info: global_post_late_lid_gyro.png  used on input line 35.
+(pdftex.def)             Requested size: 252.94878pt x 252.94878pt.
+<global_post_late_Li_UL.png, id=1254, 722.7pt x 722.7pt>
+File: global_post_late_Li_UL.png Graphic file (type png)
+<use global_post_late_Li_UL.png>
+Package pdftex.def Info: global_post_late_Li_UL.png  used on input line 37.
+(pdftex.def)             Requested size: 252.94878pt x 252.94878pt.
+ [58] [59]
+<global_post_late_Li.png, id=1264, 722.7pt x 722.7pt>
+File: global_post_late_Li.png Graphic file (type png)
+<use global_post_late_Li.png>
+Package pdftex.def Info: global_post_late_Li.png  used on input line 67.
+(pdftex.def)             Requested size: 252.94878pt x 252.94878pt.
+<global_post_late_Gyro.png, id=1265, 722.7pt x 722.7pt>
+File: global_post_late_Gyro.png Graphic file (type png)
+<use global_post_late_Gyro.png>
+Package pdftex.def Info: global_post_late_Gyro.png  used on input line 67.
+(pdftex.def)             Requested size: 252.94878pt x 252.94878pt.
 
-] (./main.bbl
 
-! LaTeX Error: Something's wrong--perhaps a missing \item.
+LaTeX Warning: Float too large for page by 15.80296pt on input line 67.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.8 \end{thebibliography}
-                         
-? 
-)
+[60] [61] [62] [63 <./global_post.png> <./global_post_late.png>] [64 <./global_
+post_late_lid_gyro.png> <./global_post_late_Li_UL.png>] [65 <./global_post_late
+_Li.png> <./global_post_late_Gyro.png>]) (./ages/9conclusions.tex [66
 
-Package natbib Warning: There were undefined citations.
+]))
+[67] (./ch_HD143811.tex [68
 
-[17
+] [69] [70] [71] [72] [73] [74] [75] [76]
+<ALLsegments_ROBpriors.png, id=1488, 794.97pt x 794.97pt>
+File: ALLsegments_ROBpriors.png Graphic file (type png)
+<use ALLsegments_ROBpriors.png>
+Package pdftex.def Info: ALLsegments_ROBpriors.png  used on input line 70.
+(pdftex.def)             Requested size: 311.66437pt x 311.67464pt.
+ [77]
+[78 <./ALLsegments_ROBpriors.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[79] [80]
+<hd143811_rvorbit_paper.pdf, id=1538, 614.295pt x 794.97pt>
+File: hd143811_rvorbit_paper.pdf Graphic file (type pdf)
+<use hd143811_rvorbit_paper.pdf>
+Package pdftex.def Info: hd143811_rvorbit_paper.pdf  used on input line 132.
+(pdftex.def)             Requested size: 415.55249pt x 326.05711pt.
+<hd143811_covplot.pdf, id=1539, 614.295pt x 794.97pt>
+File: hd143811_covplot.pdf Graphic file (type pdf)
+<use hd143811_covplot.pdf>
+Package pdftex.def Info: hd143811_covplot.pdf  used on input line 140.
+(pdftex.def)             Requested size: 415.55249pt x 326.05711pt.
+<455_HD143811_gaussianPrior-sed.pdf, id=1540, 420.90459pt x 235.63866pt>
+File: 455_HD143811_gaussianPrior-sed.pdf Graphic file (type pdf)
+<use 455_HD143811_gaussianPrior-sed.pdf>
+Package pdftex.def Info: 455_HD143811_gaussianPrior-sed.pdf  used on input line
+ 152.
+(pdftex.def)             Requested size: 415.55249pt x 232.65736pt.
+
+Overfull \hbox (15.35886pt too wide) in paragraph at lines 164--204
+[][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[81] [82 <./hd143811_rvorbit_paper.pdf>] [83 <./hd143811_covplot.pdf>] [84 <./4
+55_HD143811_gaussianPrior-sed.pdf>] [85] [86] [87] [88] [89] [90] [91])
+[92] [93] (./ages/appendix.tex
+<color-color-fit.png, id=1716, 867.24pt x 867.24pt>
+File: color-color-fit.png Graphic file (type png)
+<use color-color-fit.png>
+Package pdftex.def Info: color-color-fit.png  used on input line 6.
+(pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
+ [94
 
 
 
+ <./color-color-fit.png>]
+Overfull \hbox (8.18945pt too wide) in alignment at lines 16--23
+ [] [] [] [] [] [] [] [] [] 
+ []
 
-] (./main.aux (./title.aux) (./committee.aux) (./dedication.aux)
-(./acknowledgements.aux) (./vita.aux) (./abstract.aux) (./abbrev.aux)
-(./symbols.aux))
+
+Overfull \hbox (8.18945pt too wide) in alignment at lines 23--28
+ [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (8.18945pt too wide) in alignment at lines 28--32
+ [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (8.18945pt too wide) in alignment at lines 32--200
+ [] [] [] [] [] [] [] [] [] 
+ []
+
+
+ignored: Infinite glue shrinkage found in box being split [95
+
+]
+ignored: Infinite glue shrinkage found in box being split [96]
+ignored: Infinite glue shrinkage f
+ound in box being split [97]
+ignored: Infinite glue shrinkage found in box being split [9
+8]
+ignored: Infinite glue shrinkage found in box being split [99]
+ignored: Infinite glue shrinkage 
+found in box being split [100]
+ignored: Infinite glue shrinkage found in box being split 
+[101] [102]
+ignored: Infinite glue shrinkage found in box being split [103
+
+]
+ignored: Infinite glue shrinkage found in box being split [104]
+ignored: Infinite glue shrinkage 
+found in box being split [105]
+ignored: Infinite glue shrinkage found in box being split 
+[106]
+ignored: Infinite glue shrinkage found in box being split [107]
+ignored: Infinite glue shrink
+age found in box being split
+[108]
+ignored: Infinite glue shrinkage found in box being split [109] [110]
+ignored: Infinite glue 
+shrinkage found in box being split [111
+
+]
+ignored: Infinite glue shrinkage found in box being split [112]
+ignored: Infinite glue shrinkage 
+found in box being split [113]
+ignored: Infinite glue shrinkage found in box being split 
+[114]
+ignored: Infinite glue shrinkage found in box being split [115]
+ignored: Infinite glue shrink
+age found in box being split [116]
+ignored: Infinite glue shrinkage found in box being sp
+lit [117])
+(./hd134811_stellar_characterisation/appendix.tex [118] [119]
+<standards_teff_comparison.png, id=1853, 462.528pt x 346.896pt>
+File: standards_teff_comparison.png Graphic file (type png)
+<use standards_teff_comparison.png>
+Package pdftex.def Info: standards_teff_comparison.png  used on input line 12.
+(pdftex.def)             Requested size: 186.99734pt x 140.24861pt.
+<standards_feh_comparison.png, id=1854, 462.528pt x 346.896pt>
+File: standards_feh_comparison.png Graphic file (type png)
+<use standards_feh_comparison.png>
+Package pdftex.def Info: standards_feh_comparison.png  used on input line 13.
+(pdftex.def)             Requested size: 186.99734pt x 140.24861pt.
+<ADP.2018-05-07T09-50-26.226_9_segment_join_corner+metal+logg_ROBprior.png, id=
+1857, 1763.388pt x 1763.388pt>
+File: ADP.2018-05-07T09-50-26.226_9_segment_join_corner+metal+logg_ROBprior.png
+ Graphic file (type png)
+<use ADP.2018-05-07T09-50-26.226_9_segment_join_corner+metal+logg_ROBprior.png>
+
+Package pdftex.def Info: ADP.2018-05-07T09-50-26.226_9_segment_join_corner+meta
+l+logg_ROBprior.png  used on input line 22.
+(pdftex.def)             Requested size: 415.55249pt x 415.55325pt.
+<ALLepochs_ROBpriors_1.png, id=1858, 722.7pt x 1011.78pt>
+File: ALLepochs_ROBpriors_1.png Graphic file (type png)
+<use ALLepochs_ROBpriors_1.png>
+Package pdftex.def Info: ALLepochs_ROBpriors_1.png  used on input line 30.
+(pdftex.def)             Requested size: 332.44325pt x 465.42445pt.
+<ALLepochs_ROBpriors_2.png, id=1859, 722.7pt x 1011.78pt>
+File: ALLepochs_ROBpriors_2.png Graphic file (type png)
+<use ALLepochs_ROBpriors_2.png>
+Package pdftex.def Info: ALLepochs_ROBpriors_2.png  used on input line 37.
+(pdftex.def)             Requested size: 332.44325pt x 465.42445pt.
+<455_HD143811_gaussianPrior-triangle.pdf, id=1861, 1283.3587pt x 1310.37663pt>
+File: 455_HD143811_gaussianPrior-triangle.pdf Graphic file (type pdf)
+<use 455_HD143811_gaussianPrior-triangle.pdf>
+Package pdftex.def Info: 455_HD143811_gaussianPrior-triangle.pdf  used on input
+ line 44.
+(pdftex.def)             Requested size: 415.55249pt x 424.28778pt.
+) [120 <./standards_teff_comparison.png> <./standards_feh_comparison.png>] [121
+ <./ADP.2018-05-07T09-50-26.226_9_segment_join_corner+metal+logg_ROBprior.png>]
+ [122 <./ALLepochs_ROBpriors_1.png>] [123 <./ALLepochs_ROBpriors_2.png>] [124 <
+./455_HD143811_gaussianPrior-triangle.pdf>] (./main.bbl [125
+
+] [126] [127]
+Underfull \hbox (badness 1173) in paragraph at lines 667--669
+[]\OT1/cmr/m/n/12 Jones, N. K., Wang, J. J., Nielsen, E. L., et al. 2025, arXiv
+ e-prints,
+ []
+
+[128] [129] [130] [131]
+Underfull \hbox (badness 10000) in paragraph at lines 1037--1039
+[]\OT1/cmr/m/n/12 Soderblom, D. R. 2010, ARA&A, 48, 581, doi: [][]$\OT1/cmtt/m/
+n/12 10 . 1146 /
+ []
+
+[132]) [133] (./main.aux (./title.aux) (./committee.aux) (./dedication.aux)
+(./acknowledgements.aux) (./vita.aux) (./abbrev.aux) (./symbols.aux))
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 174D5364009DC9E3A0C4F302F5BC9B0F;1064.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: BA992A58F5D5372CA45C37AAD8BCBABB;5519
+(rerunfilecheck)             After:  892429513ABD6A3B0EF34E587C63407E;5593.
  ) 
 Here is how much of TeX's memory you used:
- 21917 strings out of 467525
- 414594 string characters out of 5418982
- 1305243 words of memory out of 5000000
- 50357 multiletter control sequences out of 15000+600000
- 638643 words of font info for 83 fonts, out of 8000000 for 9000
+ 23098 strings out of 467525
+ 440432 string characters out of 5418982
+ 1402277 words of memory out of 5000000
+ 51171 multiletter control sequences out of 15000+600000
+ 644305 words of font info for 107 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 73i,11n,79p,1669b,1250s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
-</usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></
-usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></us
-r/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
-local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/lo
-cal/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local
-/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/te
-xlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/tex
-live/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texli
-ve/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive
-/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/
-2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2
-026/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on main.pdf (31 pages, 256807 bytes).
+ 73i,15n,79p,7578b,1414s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{table.Alph0.1.3} has been referenced but does not e
+xist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{table.Alph0.1.2} has been referenced but does not e
+xist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{table.Alph0.1.1} has been referenced but does not e
+xist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.Alph0.2} has been referenced but does no
+t exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.Alph0.1} has been referenced but does no
+t exist, replaced by a fixed one
+
+</usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
+/usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></
+usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
+sr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></us
+r/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/
+local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/lo
+cal/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/loca
+l/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/
+texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/te
+xlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texl
+ive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texliv
+e/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2
+026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2026
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2026/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2026/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2026/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2026/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2026/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2026/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2026/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2026/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2026/texmf-dist/font
+s/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2026/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2026/texmf-dist/fonts/
+type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2026/texmf-dist/fo
+nts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2026/texmf-dist/font
+s/type1/public/cm-super/sfti1200.pfb>
+Output written on main.pdf (152 pages, 11174023 bytes).
 PDF statistics:
- 281 PDF objects out of 1000 (max. 8388607)
- 215 compressed objects within 3 object streams
- 44 named destinations out of 1000 (max. 500000)
- 70 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2325 PDF objects out of 2487 (max. 8388607)
+ 2029 compressed objects within 21 object streams
+ 381 named destinations out of 1000 (max. 500000)
+ 450 words of extra memory for PDF output out of 10000 (max. 10000000)
 

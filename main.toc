@@ -1,10 +1,41 @@
 \@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
 \contentsline {section}{LIST OF TABLES}{xi}{section*.2}%
-\contentsline {section}{LIST OF FIGURES}{xii}{section*.3}%
-\contentsline {section}{LIST OF ABBREVIATIONS}{xiii}{section*.4}%
-\contentsline {section}{\MakeUppercase []{List of Symbols}}{xiv}{section*.5}%
+\contentsline {section}{LIST OF FIGURES}{xvii}{section*.3}%
+\contentsline {section}{LIST OF ABBREVIATIONS}{xviii}{section*.4}%
+\contentsline {section}{\MakeUppercase []{List of Symbols}}{xix}{section*.5}%
 
-\contentsline {section}{\numberline {1}\MakeUppercase []{title}}{1}{section.1}%
-\contentsline {section}{\numberline {2}Combined Age Posteriors}{1}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Stars within the Lithium Dip}{15}{subsection.2.1}%
-\contentsline {section}{REFERENCES}{17}{subsection.2.1}%
+\contentsline {section}{\numberline {1}\MakeUppercase []{Apache Point Observatory follow-up of ACcelerating Candidate ExopLanet host Stars \\(APO ACCELS): Ages for 166 Accelerating Stars in the Northern Hemisphere}}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Introduction}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Sample, observations, and data reduction}{7}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Lithium}{11}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Calcium Emission}{24}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Gyrochronology}{29}{subsection.1.5}%
+\contentsline {subsubsection}{\numberline {1.5.1}Complex light curves}{33}{subsubsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.6}Combined Age Posteriors}{39}{subsection.1.6}%
+\contentsline {subsection}{\numberline {1.7}Stars within the Lithium Dip}{54}{subsection.1.7}%
+\contentsline {subsection}{\numberline {1.8}Discussion}{55}{subsection.1.8}%
+\contentsline {subsubsection}{\numberline {1.8.1}Star Formation History of the Solar Neighborhood}{55}{subsubsection.1.8.1}%
+\contentsline {subsubsection}{\numberline {1.8.2}Population Level Ages}{56}{subsubsection.1.8.2}%
+\contentsline {subsubsection}{\numberline {1.8.3}Testing Individual Age Tracers}{58}{subsubsection.1.8.3}%
+\contentsline {subsubsection}{\numberline {1.8.4}Companions}{61}{subsubsection.1.8.4}%
+\contentsline {subsection}{\numberline {1.9}Conclusions}{66}{subsection.1.9}%
+
+\contentsline {section}{\numberline {2}\MakeUppercase []{HD 143811 AB}}{68}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Introduction}{68}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}HD~143811~AB}{69}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Analysis}{71}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Data}{71}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Spectral Fitting}{72}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Orbit Fitting}{76}{subsubsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.3.4}Stellar Parameters}{77}{subsubsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.4}Discussion}{85}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Physical Parameters}{85}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}Sco-Cen Membership}{87}{subsubsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.5}Conclusions}{91}{subsection.2.5}%
+\contentsline {section}{APPENDICES}{94}{subsection.2.5}%
+\contentsline {section}{\numberline {Appendices}}{}{}
+\contentsline {section}{\numberline {A}}{94}{appendix.A}%
+
+\contentsline {section}{\numberline {B}}{118}{appendix.B}%
+
+\contentsline {section}{REFERENCES}{125}{figure.caption.38}%

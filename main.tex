@@ -132,7 +132,7 @@
 \setstretch{1}%\doublespace
 
 \setstretch{2}%\begin{doublespace}
-\include{abstract}  % Abstract page - abstract.tex
+%\include{abstract}  % Abstract page - abstract.tex
 \setstretch{1}%\end{doublespace}
 
 \singlespace
@@ -179,7 +179,8 @@
 
 \clearpage
 \resetcounters
-\
+\input{ch_HD143811.tex}
+
 \clearpage
 \resetcounters
 %\input{ch_snrt}
@@ -225,6 +226,21 @@
 
 %%% End of Appendices
 
+\begin{center}
+APPENDICES
+\end{center}
+\addcontentsline{toc}{section}{APPENDICES} 
+
+%\section{\texorpdfstring{\MakeUppercase{Appendices}}{}}
+\appendix
+\resetcounters
+\section{}
+\input{ages/appendix} 
+
+\resetcounters
+\section{}
+\input{hd134811_stellar_characterisation/appendix}
+
 \setstretch{1}%\end{doublespace}
 
 \clearpage
@@ -235,7 +251,6 @@
 \addcontentsline{toc}{section}{REFERENCES}  % This line makes sure that REFERENCES shows up in the table of contents with the correct page number
 \bibliographystyle{aasjournal}  % You can use any bibliography style you like, but hey, I like ApJ cause I'm used to it
 \bibliography{refs}  % Your bibtex file with all that lovely natbib info
-
 
 \end{document}
 
